@@ -2,11 +2,16 @@
 Smart-Home Project By two AVR MIcrocontrollers Using USART Communication Protocol
 
 Hardware Components:
-1-Atmega32 *2 2-LCD 16*2
-3-Keypad 4-Servomotor
-5-Buzzer 6-LM35 Temp Sensor
-7-LEDs 8-LDR
-9-Dc Motor *2 10-HCRS04 Ultrasonic
+1-Atmega32 *2 
+2-LCD 16*2
+3-Keypad 
+4-Servomotor
+5-Buzzer
+6-LM35 Temp Sensor
+7-LEDs
+8-LDR
+9-Dc Motor *2 
+10-HCRS04 Ultrasonic
 
 Software Architecture Layers:
 1-MCAL ->DIO,ADC,TIMER,GIE,PWM,USART
